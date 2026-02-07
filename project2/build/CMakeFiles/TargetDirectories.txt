@@ -1,0 +1,3 @@
+F:/Vs_code/Projects/selfuse_opencv_projects/project2/build/CMakeFiles/app.dir
+F:/Vs_code/Projects/selfuse_opencv_projects/project2/build/CMakeFiles/edit_cache.dir
+F:/Vs_code/Projects/selfuse_opencv_projects/project2/build/CMakeFiles/rebuild_cache.dir
