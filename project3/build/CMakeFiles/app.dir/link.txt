@@ -1,3 +1,0 @@
-F:\Tools\cmake\bin\cmake.exe -E rm -f CMakeFiles\app.dir/objects.a
-F:\Tools\mingw64\bin\ar.exe qc CMakeFiles\app.dir/objects.a @CMakeFiles\app.dir\objects1.rsp
-F:\Tools\mingw64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\app.dir/objects.a -Wl,--no-whole-archive -o F:\Vs_code\Projects\selfuse_opencv_projects\project3\output\app.exe -Wl,--out-implib,libapp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\app.dir\linkLibs.rsp

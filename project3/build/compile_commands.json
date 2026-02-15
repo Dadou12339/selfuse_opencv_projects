@@ -1,8 +1,0 @@
-[
-{
-  "directory": "F:/Vs_code/Projects/selfuse_opencv_projects/project3/build",
-  "command": "F:\\Tools\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -O3 -DNDEBUG -finput-charset=utf-8 -fexec-charset=gbk -o CMakeFiles\\app.dir\\src\\main.cpp.obj -c F:\\Vs_code\\Projects\\selfuse_opencv_projects\\project3\\src\\main.cpp",
-  "file": "F:/Vs_code/Projects/selfuse_opencv_projects/project3/src/main.cpp",
-  "output": "CMakeFiles/app.dir/src/main.cpp.obj"
-}
-]
